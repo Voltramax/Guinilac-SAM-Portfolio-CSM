@@ -1,0 +1,15 @@
+body {
+    background-image: url('../images/desktop-wallpaper-portfolio.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.head {
+    margin-top: 50px;
+    margin-right: 320px;
+}
+@media screen and (max-width: 768px) { 
+    .head {
+        margin-right: 20px; 
+    }
+}
