@@ -17,7 +17,7 @@ include ('admin-include/header.php');
 						<th>Image</th>
 						<th>Timestamp</th>
 						<th>Manage</th>
-					</tr>F
+					</tr>
 				</thead>
 				<tbody>
 					<?php

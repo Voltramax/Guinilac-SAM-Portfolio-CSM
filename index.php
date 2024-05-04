@@ -33,7 +33,7 @@ include( 'include/sidebar.php' );
 			<div class="row">
 				<div class="col-md-6">
 					<div class="left-text">
-						<h4>Where does I come from?</h4>
+						<h4>Where do I come from?</h4>
 						<?php include('api/left-txt.php');?>
 				</div>
 				<div class="col-md-6">
