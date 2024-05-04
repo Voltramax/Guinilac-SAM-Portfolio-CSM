@@ -6,10 +6,10 @@ include( 'include/sidebar.php' );
 <section class="section about-me" data-section="section1">
 	<div class="container">
 		<div class="section-heading">
-			<h2>What is Lorem Ipsum?</h2>
+			<h2>Who is Clyde Denzel Guinilac?</h2>
 			<div class="line-dec"></div>
 			<span>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+				<p>Hello! I'm a graduate in Information Technology from Western Mindanao State University. I have a passion for technology and problem-solving, and I enjoy creating innovative solutions.
 				</p>
 			</span>
 		</div>
@@ -24,7 +24,7 @@ include( 'include/sidebar.php' );
 				</div>
 				<div class="col-md-6">
 					<div class="right-text">
-						<h4>Why do we use it?<h4>
+						<h4>About me<h4>
 							<?php include('api/right-txt.php');?>
 				</div>
 			</div>
@@ -33,7 +33,7 @@ include( 'include/sidebar.php' );
 			<div class="row">
 				<div class="col-md-6">
 					<div class="left-text">
-						<h4>Where does it come from?</h4>
+						<h4>Where does I come from?</h4>
 						<?php include('api/left-txt.php');?>
 				</div>
 				<div class="col-md-6">
@@ -50,9 +50,10 @@ include( 'include/sidebar.php' );
 <section class="section my-services" data-section="section2">
 	<div class="container">
 		<div class="section-heading">
-			<h2>Where can I get some?</h2>
+			<h2>What are my Skills?
+      </h2>
 			<div class="line-dec"></div>
-			<span>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</span>
+			<span></span>
           </div>
 		
           <div class="row">
@@ -65,9 +66,7 @@ include( 'include/sidebar.php' );
 		<div class="section-heading">
 			<h2>My Work</h2>
 			<div class="line-dec"></div>
-			<span>Aenean sollicitudin ex mauris, lobortis lobortis diam euismod sit
-              amet. Duis ac elit vulputate, lobortis arcu quis, vehicula
-              mauris.</span
+			<span>These are the Projects I've had the privilege to work in</span
             >
           </div>
           <div class="row">
@@ -135,7 +134,7 @@ include( 'include/sidebar.php' );
             <h2>Contact Me</h2>
             <div class="line-dec"></div>
                 <span
-                  >a dedicated software developer with a passion for crafting elegant solutions to complex problems. With a solid foundation in computer science and years of hands-on experience,<br>
+                  >I'm a dedicated software developer with a passion for crafting elegant solutions to complex problems. With a solid foundation in computer science and years of hands-on experience,<br>
                   I believe in the power of technology to drive positive change, and I'm excited to be part of a community that's constantly pushing the boundaries of what's possible. Let's build something amazing together!
                 </span> <br>
                   <?php 
