@@ -9,7 +9,7 @@ include( 'include/sidebar.php' );
 			<h2>Who is Clyde Denzel Guinilac?</h2>
 			<div class="line-dec"></div>
 			<span>
-				<p>Hello! I'm a graduate in Information Technology from Western Mindanao State University. I have a passion for technology and problem-solving, and I enjoy creating innovative solutions.
+				<p>Hello! I'm Clyde your friendly neighborhood IT tech guy!
 				</p>
 			</span>
 		</div>
