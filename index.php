@@ -9,7 +9,7 @@ include( 'include/sidebar.php' );
 			<h2>Who is Clyde Denzel Guinilac?</h2>
 			<div class="line-dec"></div>
 			<span>
-				<p>Hello! I'm Clyde your friendly neighborhood IT tech guy!
+				<p>Hello! I'm Clyde your friendly neighborhood IT tech guy!!
 				</p>
 			</span>
 		</div>
